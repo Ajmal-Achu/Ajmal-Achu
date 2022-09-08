@@ -8,11 +8,25 @@
 <img src="Ajmalprofile.jpg" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="Ajmal-Achu" src="https://img.shields.io/badge/Ajmal Achu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ajmal-Achu" src="https://img.shields.io/badge/Ajmal-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-  <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
+
+  <h2 align="center"> ✨ About Me ✨</h2>
+
+```js
+const Ajmal-X0 = {
+    Original name : "Ajmal",
+     Instagram : _toxic_ajmal,
+    Gender : Male,
+    Relationship status :Single,
+     Mobile OS: Android 12 ,
+       Computer OS: Ubuntu 20.04
+   Coding Software: {
+       Mobile: Dcoder,
+       Computer: VS Code
+    },
+}; //by,Ajmal Ser
+```
 </div>
 <div align="left">
 <!--
