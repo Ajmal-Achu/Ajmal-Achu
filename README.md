@@ -51,10 +51,6 @@ const Ajmal-X0 = {
 
 </div>
 <div align="center">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ajmal-Achu/count.svg"/>
-</p>
 
  <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-J-M-A-L&theme=radical&layout=compact" /></td>
