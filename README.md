@@ -37,17 +37,17 @@ const Ajmal-X0 = {
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A-J-M-A-L&show_icons=true&theme=nightowl" alt="A-J-M-A-L" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajmal-Achu&show_icons=true&theme=nightowl" alt="Ajmal-Achu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=A-J-M-A-L&theme=nightowl" alt="A-J-M-A-L" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmal-Achu&theme=nightowl" alt="Ajmal-Achu" /></p>
 </details> </div>
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/A-J-M-A-L?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Ajmal-Achu?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=A-J-M-A-L&repo=wabot-aq)](https://github.com/A-J-M-A-L/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Wizard-MD)](https://github.com/Ajmal-Achu/Wizard-MD)
 
 </div>
 <div align="center">
@@ -63,7 +63,7 @@ const Ajmal-X0 = {
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=A-J-M-A-L)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Ajmal-Achu)
 
 </details>
     
