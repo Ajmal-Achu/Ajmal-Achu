@@ -1,33 +1,13 @@
-# Hi iam Ajmal&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajmal-Achu&label=Profile%20views&color=0e75b6&style=flat" alt="Ajmal-Achu" /> </p>
 
 
-<div align="center">
-  <p align="center">
-<img src="Ajmalprofile.jpg" alt="GIF" width="128" height="128"/>
-</p>
- <p align="center">
-<a href="#"><img title="Ajmal-Achu" src="https://img.shields.io/badge/Ajmal-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-  <h2 align="center"> ✨ About Me ✨</h2>
-
-```js
-const Ajmal-X0 = {
-    Original name : "Ajmal",
-     Instagram : _toxic_ajmal,
-    Gender : Male,
-    Relationship status :Single,
-     Mobile OS: Android 12 ,
-       Computer OS: Ubuntu 20.04
-   Coding Software: {
-       Mobile: Dcoder,
-       Computer: VS Code
-    },
-}; //by,Ajmal Ser
-```
-</div>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <div align="left">
 <!--
 <h3 align="left">Languages and Tools:</h3>
