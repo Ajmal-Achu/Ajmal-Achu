@@ -1,13 +1,58 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ajmalser.vercel.app" target="blank">
 Ajmal</a></h1>
-<h3 align="center">A passionate Web Developer from Kerala &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajmal-Achu&label=Profile%20views&color=0e75b6&style=flat" alt="Ajmal-Achu" /> </p>
+  --------
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+> * Just a kid, who loves to code
+> * I like learning programming language.
+> * Lives in Kerala, India
+> * I'm 17 y.o.
+> ,If you want know 
+> * Iam Currently working on my project known as Wizard MD
+> * Always available  on Whatsapp
+> * `Thx`
+--------
+
+--------
+
+`Skills`
+
+> * JS
+> * PYTHON
+> * C++
+> * HTML
+> * CSS
+> * MYSQL
+
+--------
+
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmal-Achu&theme=monokai" /></a>
+</p>
+
+</details>
+
+---------
+---------
+
+<details>
+    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
+<p align="center">
+  <a href="https://www.instagram.com/sincrypt_ajzap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/48888888041"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Ajmal-Achu" /></a>
+</p>
+
+</details>
+
+  
+
 <div align="left">
 <!--
 <h3 align="left">Languages and Tools:</h3>
