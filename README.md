@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ajmalser.vercel.app" target="blank">
 Ajmal</a></h1>
-  --------
+  
 
 
 > * Just a kid, who loves to code
