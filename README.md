@@ -27,7 +27,7 @@ Ajmal</a></h1>
 --------
 
   <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmal-Achu&theme=monokai" /></a>
+  <a href="https://github.com/Ajmal-Achu"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmal-Achu&theme=monokai" /></a>
 </p>
 
 </details>
