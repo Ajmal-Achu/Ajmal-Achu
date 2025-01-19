@@ -20,8 +20,6 @@ Ajmal</a></h1>
 > * JS
 > * PYTHON
 > * C++
-> * HTML
-> * CSS
 > * MYSQL
 
 --------
