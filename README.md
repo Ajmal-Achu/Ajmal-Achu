@@ -18,8 +18,12 @@ Ajmal</a></h1>
 `Skills`
 
 > * JS
+> * Typescript 
 > * PYTHON
+> * Java
+> * C
 > * C++
+> * C#
 > * MYSQL
 
 --------
