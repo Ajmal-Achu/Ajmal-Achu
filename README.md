@@ -6,8 +6,6 @@ Ajmal</a></h1>
 > * Just a kid, who loves to code
 > * I like learning programming language.
 > * Lives in Kerala, India
-> * I'm 17 y.o.
-> ,If you want know 
 > * Iam Currently working on my project known as Wizard MD
 > * Always available  on Whatsapp
 > * `Thx`
